@@ -1,0 +1,22 @@
+<h2>Palindromes</h2>
+<html><body><p>Unsatisfied with palindrome checkers from <code class="language-java">stackoverflow.com</code>, you decided to write your own implementation of this algorithm and apply the test driven development approach to this process. First, you defined a set of rules for your checker. After that, you wrote tests to enforce these rules. It's about time to implement the checker itself.</p>
+<pre><code class="language-java">import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.ValueSource;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+public class PalindromeTests {
+
+    @ParameterizedTest
+    @ValueSource(strings = {"aaaa", "AaAaaaA", "Radar", "My gym", "Don't nod", "No lemon, no melon"})
+    void testIsPalindrome(String string) {
+        assertTrue(StringUtils.isPalindrome(string));
+    }
+
+    @ParameterizedTest
+    @ValueSource(strings = {"", "hello!", "horror", "Ill will", "((()))", "[))))]", "222222122222"})
+    void testIsNotPalindrome(String string) {
+        assertFalse(StringUtils.isPalindrome(string));
+    }
+}</code></pre>
+<p>Too bad you have lost the piece of paper with the full list of rules, so no other cases will be tested.</p></body></html><br><b>Sample Input:</b><br><pre><code class="language-no-highlight">aaaa<br></code></pre><br><b>Sample Output:</b><br><pre><code class="language-no-highlight">true</code></pre><br><br><b>Sample Input:</b><br><pre><code class="language-no-highlight">Radar<br></code></pre><br><b>Sample Output:</b><br><pre><code class="language-no-highlight">true</code></pre><br><br><b>Sample Input:</b><br><pre><code class="language-no-highlight">hello!<br></code></pre><br><b>Sample Output:</b><br><pre><code class="language-no-highlight">false</code></pre><br><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 5 seconds</font><br><br>

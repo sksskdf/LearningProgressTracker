@@ -1,0 +1,36 @@
+<h2>Tricky syntax</h2>
+<html><body><p>
+Look carefully at the following test class:</p>
+<pre><code class="language-java">class Tests {
+    
+    @ParameterizedTest // #1
+    @ValueSource(ints = {"1", "2", "3", "4", "5"})
+    void test1(int number) {
+        assertTrue(number &gt; 0);
+    }
+
+    @ParameterizedTest // #2
+    @ValueSource({1, 2, 3, 4, 5})
+    void test2(int number) {
+        assertTrue(number &gt; 0);
+    }
+
+    @ParameterizedTest // #3
+    @ValueSource(ints = {1, 2, 3, 4, 5})
+    void test3(int number) {
+        assertTrue(number &gt; 0);
+    }
+
+    @ParameterizedTest  // #4
+    @ValueSource(ints = {1, 2, 3, 4, 5})
+    void test4(Integer number) {
+        assertTrue(number &gt; 0);
+    }
+
+    @ParameterizedTest // #5
+    @ValueSource(args = {1, 2, 3, 4, 5})
+    void test5(int number) {
+        assertTrue(number &gt; 0);
+    }
+}</code></pre>
+<p>Which of its methods WILL NOT compile?</p></body></html>

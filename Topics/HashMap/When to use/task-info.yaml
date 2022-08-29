@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: you wish to have complexity O(1) for get() and put() methods
+- text: you want to store elements as key-value pairs
+- text: you need to sort elements and put them in order
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12380#comment
+status: Solved
+record: -1
+custom_name: When to use?
+local_check: false

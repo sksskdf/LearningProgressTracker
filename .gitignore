@@ -1,0 +1,112 @@
+# 프로젝트 제외 경로
+/.gradle/
+/Learning Progress Tracker/task/build/
+/Learning Progress Tracker/task/out/
+/Learning Progress Tracker/task/out/production/classes/
+/Topics/Comparing dates and time/Don't be late again/out/
+/Topics/Comparing dates and time/Don't be late again/out/production/classes/
+/Topics/Comparing dates and time/Find the latest date-time/out/
+/Topics/Comparing dates and time/Find the latest date-time/out/production/classes/
+/Topics/Comparing dates and time/How many date-time pairs match the range/out/
+/Topics/Comparing dates and time/How many date-time pairs match the range/out/production/classes/
+/Topics/Comparing dates and time/Is after, is before/out/
+/Topics/Comparing dates and time/Is after, is before/out/production/classes/
+/Topics/Comparing dates and time/Select correct statements/out/
+/Topics/Comparing dates and time/Select correct statements/out/production/classes/
+/Topics/Comparing dates and time/The intersection of time ranges/out/
+/Topics/Comparing dates and time/The intersection of time ranges/out/production/classes/
+/Topics/Comparing dates and time/The New Year is coming (or not)/out/
+/Topics/Comparing dates and time/The New Year is coming (or not)/out/production/classes/
+/Topics/Comparing dates and time/Theory/out/
+/Topics/Comparing dates and time/Theory/out/production/classes/
+/Topics/Comparing dates and time/What is false/out/
+/Topics/Comparing dates and time/What is false/out/production/classes/
+/Topics/Comparing dates and time/Which return true/out/
+/Topics/Comparing dates and time/Which return true/out/production/classes/
+/Topics/Floating-point types/Area of a circle/out/
+/Topics/Floating-point types/Area of a circle/out/production/classes/
+/Topics/Floating-point types/Determine the integer part/out/
+/Topics/Floating-point types/Determine the integer part/out/production/classes/
+/Topics/Floating-point types/Determine the result/out/
+/Topics/Floating-point types/Determine the result/out/production/classes/
+/Topics/Floating-point types/Exponential expression/out/
+/Topics/Floating-point types/Exponential expression/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/Floating-point types/Statements/out/
+/Topics/Floating-point types/Statements/out/production/classes/
+/Topics/Floating-point types/Theory/out/
+/Topics/Floating-point types/Theory/out/production/classes/
+/Topics/HashMap/Advantages/out/
+/Topics/HashMap/Advantages/out/production/classes/
+/Topics/HashMap/Countries and capitals/out/
+/Topics/HashMap/Countries and capitals/out/production/classes/
+/Topics/HashMap/How many buckets/out/
+/Topics/HashMap/How many buckets/out/production/classes/
+/Topics/HashMap/The same letter/build/
+/Topics/HashMap/The same letter/out/
+/Topics/HashMap/The same letter/out/production/classes/
+/Topics/HashMap/Theory/out/
+/Topics/HashMap/Theory/out/production/classes/
+/Topics/HashMap/When to use/out/
+/Topics/HashMap/When to use/out/production/classes/
+/Topics/LinkedList vs. ArrayList/Fast for ArrayList/out/
+/Topics/LinkedList vs. ArrayList/Fast for ArrayList/out/production/classes/
+/Topics/LinkedList vs. ArrayList/Fast for LinkedList/out/
+/Topics/LinkedList vs. ArrayList/Fast for LinkedList/out/production/classes/
+/Topics/LinkedList vs. ArrayList/The big merge/out/
+/Topics/LinkedList vs. ArrayList/The big merge/out/production/classes/
+/Topics/LinkedList vs. ArrayList/The fair exchange/out/
+/Topics/LinkedList vs. ArrayList/The fair exchange/out/production/classes/
+/Topics/LinkedList vs. ArrayList/Theory/out/
+/Topics/LinkedList vs. ArrayList/Theory/out/production/classes/
+/Topics/LinkedList vs. ArrayList/Transfer both lists/out/
+/Topics/LinkedList vs. ArrayList/Transfer both lists/out/production/classes/
+/Topics/LinkedList vs. ArrayList/What is the same/out/
+/Topics/LinkedList vs. ArrayList/What is the same/out/production/classes/
+/Topics/Parameterized test/Methods as sources/out/
+/Topics/Parameterized test/Methods as sources/out/production/classes/
+/Topics/Parameterized test/Palindromes/out/
+/Topics/Parameterized test/Palindromes/out/production/classes/
+/Topics/Parameterized test/Theory/out/
+/Topics/Parameterized test/Theory/out/production/classes/
+/Topics/Parameterized test/Tricky syntax/out/
+/Topics/Parameterized test/Tricky syntax/out/production/classes/
+/Topics/Stack/Deque output/out/
+/Topics/Stack/Deque output/out/production/classes/
+/Topics/Stack/Getting the max element of a stack/out/
+/Topics/Stack/Getting the max element of a stack/out/production/classes/
+/Topics/Stack/Html Parser/out/
+/Topics/Stack/Html Parser/out/production/classes/
+/Topics/Stack/Methods/out/
+/Topics/Stack/Methods/out/production/classes/
+/Topics/Stack/The LIFO principle in action/out/
+/Topics/Stack/The LIFO principle in action/out/production/classes/
+/Topics/Stack/Theory/out/
+/Topics/Stack/Theory/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Getting submaps/out/
+/Topics/The Map interface/Getting submaps/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Map interface/Tricky sub-maps/out/
+/Topics/The Map interface/Tricky sub-maps/out/production/classes/
+/Topics/Unit testing with JUnit/Assertion/out/
+/Topics/Unit testing with JUnit/Assertion/out/production/classes/
+/Topics/Unit testing with JUnit/Failed assertion/out/
+/Topics/Unit testing with JUnit/Failed assertion/out/production/classes/
+/Topics/Unit testing with JUnit/Test driven development/out/
+/Topics/Unit testing with JUnit/Test driven development/out/production/classes/
+/Topics/Unit testing with JUnit/Theory/out/
+/Topics/Unit testing with JUnit/Theory/out/production/classes/

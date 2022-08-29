@@ -1,0 +1,21 @@
+<h2>Something is missing</h2>
+<html><body><p>Suppose we have a <code class="language-java">Calculator</code> class with the following method:</p>
+<pre><code class="language-java">public int sum(Collection&lt;Integer&gt; numbers) {
+    if (numbers == null) {
+        return 0;
+    }
+
+    int sum = 0;
+    for (int number : numbers) {
+        sum += number;
+    }
+    return sum;
+}</code></pre>
+<p>We also have a test method for the test case where the argument of the <code class="language-java">sum</code> method is <code class="language-java">null</code>:</p>
+<pre><code class="language-java">@Test
+void testSum() {
+    Calculator calculator = new Calculator();
+    Collection&lt;Integer&gt; collection = null;
+    // TODO implement
+}</code></pre>
+<p>Complete the missing line of code with an assertion method to be sure that <code class="language-java">sum </code>returns the correct result for the provided argument.</p></body></html>

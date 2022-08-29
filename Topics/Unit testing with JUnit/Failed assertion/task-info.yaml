@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: The test will throw java.lang.AssertionError with a message detailing the
+    cause of the failure
+- text: The test will throw org.opentest4j.AssertionFailedError without any details
+- text: The test will throw java.lang.AssertionError without any details
+- text: The test will be passed without any errors
+- text: The test will throw org.opentest4j.AssertionFailedError with a message detailing
+    the cause of the failure
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12645#comment
+status: Solved
+record: -1
+local_check: false

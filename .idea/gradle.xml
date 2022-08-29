@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Don't be late again" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Find the latest date-time" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/How many date-time pairs match the range" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Is after, is before" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Select correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/The New Year is coming (or not)" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/The intersection of time ranges" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/What is false" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Which return true" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the integer part" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Exponential expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Advantages" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Countries and capitals" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/How many buckets" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/The same letter" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/When to use" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Fast for ArrayList" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Fast for LinkedList" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/The big merge" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/The fair exchange" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Transfer both lists" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/What is the same" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Methods as sources" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Palindromes" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Tricky syntax" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Deque output" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Getting the max element of a stack" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Html Parser" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Methods" />
+            <option value="$PROJECT_DIR$/Topics/Stack/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Counting words" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Getting submaps" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Modifying a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Sherlock Holmes and removing of characters" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Tricky sub-maps" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Failed assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Test driven development" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

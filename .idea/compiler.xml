@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Learning_Progress_Tracker.Learning_Progress_Tracker-task-build-classes-java.main" target="15" />
+      <module name="Learning_Progress_Tracker.Learning_Progress_Tracker-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Learning_Progress_Tracker.Learning_Progress_Tracker-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Learning_Progress_Tracker.Learning_Progress_Tracker-task-build-reports-tests.main" target="15" />
+      <module name="Learning_Progress_Tracker.Learning_Progress_Tracker-task-build-test-results.main" target="15" />
+      <module name="Learning_Progress_Tracker.Learning_Progress_Tracker-task-build-tmp.main" target="15" />
+      <module name="Learning_Progress_Tracker.Learning_Progress_Tracker-task.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-Don't_be_late_again.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-Find_the_latest_date-time.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-How_many_date-time_pairs_match_the_range.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-Is_after,_is_before.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-Select_correct_statements.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-The_intersection_of_time_ranges.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-What_is_false.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Comparing_dates_and_time-Which_return_true.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Floating-point_types-Area_of_a_circle.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Floating-point_types-Determine_the_integer_part.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Floating-point_types-Determine_the_result.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Floating-point_types-Exponential_expression.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Floating-point_types-Find_X.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Floating-point_types-Statements.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Floating-point_types-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-HashMap-Advantages.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-HashMap-Countries_and_capitals.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-HashMap-How_many_buckets.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-HashMap-The_same_letter.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-HashMap-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-HashMap-When_to_use.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-LinkedList_vs._ArrayList-Fast_for_ArrayList.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-LinkedList_vs._ArrayList-Fast_for_LinkedList.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-LinkedList_vs._ArrayList-The_big_merge.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-LinkedList_vs._ArrayList-The_fair_exchange.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-LinkedList_vs._ArrayList-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-LinkedList_vs._ArrayList-Transfer_both_lists.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-LinkedList_vs._ArrayList-What_is_the_same.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Parameterized_test-Methods_as_sources.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Parameterized_test-Palindromes.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Parameterized_test-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Parameterized_test-Tricky_syntax.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Stack-Deque_output.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Stack-Getting_the_max_element_of_a_stack.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Stack-Html_Parser.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Stack-Methods.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Stack-The_LIFO_principle_in_action.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Stack-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Stack-Which_brackets_are_balanced.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Counting_words.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Creating_a_map.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Getting_submaps.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Modifying_a_map.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-The_Map_interface-Tricky_sub-maps.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Unit_testing_with_JUnit-Assertion.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Unit_testing_with_JUnit-Failed_assertion.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Unit_testing_with_JUnit-Test_driven_development.main" target="15" />
+      <module name="Learning_Progress_Tracker.Topics-Unit_testing_with_JUnit-Theory.main" target="15" />
+      <module name="Learning_Progress_Tracker.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
